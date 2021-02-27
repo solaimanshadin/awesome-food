@@ -1,0 +1,40 @@
+[
+    {
+        "id" : "awf-1",
+        "name" : "Eggs Benedict",
+        "price" : 10,
+        "image" : "https://i.ibb.co/GPS1MS0/breakfast4.png"
+    },
+    {
+        "id" : "awf-2",
+        "name" : "Bagel And Cream Cheese",
+        "price" : 15,
+        "image" : "https://i.ibb.co/8bJV04d/breakfast2.png"
+    },
+    {
+        "id" : "awf-3",
+        "name" : "Healthy Meal Plan",
+        "price" : 35,
+        "image" : "https://i.ibb.co/F7CKNrj/lunch1.png"
+    },
+    {
+        "id" : "awf-4",
+        "name" : "Salmon with grapefruit salad",
+        "price" : 15,
+        "image" : "https://i.ibb.co/85FdR1G/dinner2.png"
+    },
+    {
+        "id" : "awf-5",
+        "name" : "Pork tenderloin with quinoa",
+        "price" : 23,
+        "image" : "https://i.ibb.co/CBYXsWr/dinner5.png"
+    },
+    {
+        "id" : "awf-6",
+        "name" : "Garlic butter salmon",
+        "price" : 25,
+        "image" : "https://i.ibb.co/KV78f0v/dinner6.png"
+    }
+    
+
+]
